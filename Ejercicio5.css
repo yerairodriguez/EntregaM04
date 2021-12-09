@@ -1,0 +1,35 @@
+*{
+    margin-right: 2px;
+}
+
+h1{
+    background-color: black;
+    color: white;
+    width: 1876px;
+    height: 60px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+h2{
+    float: left;
+    background-color: gray;
+    color: black;
+    width: 49%;
+    height: 30px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    display: inline-block;  
+}
+h4{
+    float: left;
+    background-color: lightgray;
+    color: black;
+    width: 24%;
+    height: 20px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    display: inline-block;  
+}
